@@ -1,0 +1,10 @@
+item.tdkddoor:tdkdDoorWood.name=遠征どこでも片道ドア
+item.tdkddoor:tdkdDoorIron.name=遠征どこでもドア
+item.tdkddoor:tdkdDoorStone.name=近場どこでもドア
+tile.tdkddoor:tdkdDoorWood.name=遠征どこでも片道ドア
+tile.tdkddoor:tdkdDoorIron.name=遠征どこでもドア
+tile.tdkddoor:tdkdDoorStone.name=近場どこでもドア
+
+tdkddoor.distance=%skmを移動した！
+tdkddoor.teleporting1=ワールドのどこかにテレポート中
+tdkddoor.teleporting2=もうひとつのドアへテレポート中

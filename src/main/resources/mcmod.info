@@ -1,0 +1,17 @@
+[
+{
+  "modid": "TravelDokodemoDoor",
+  "name": "遠征どこでもドア (Anywhere Travel Door)",
+  "description": "どこでも行けるよ！行き先は決められないがな！！\n\nYou can go anywhere! Though you can't decide where to go!!",
+  "version": "2.1",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "",
+  "url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=1014",
+  "updateUrl": "",
+  "authors": [ "つてと (Tsuteto)" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]

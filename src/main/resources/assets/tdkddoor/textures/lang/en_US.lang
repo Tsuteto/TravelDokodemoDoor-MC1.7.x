@@ -1,0 +1,10 @@
+item.tdkddoor:tdkdDoorWood.name=Anywhere Travel One-Way Door
+item.tdkddoor:tdkdDoorIron.name=Anywhere Travel Door
+item.tdkddoor:tdkdDoorStone.name=Anywhere Short Trip Door
+tile.tdkddoor:blockTdkdDoorWood.name=Anywhere Travel One-Way Door
+tile.tdkddoor:blockTdkdDoorIron.name=Anywhere Travel Door
+tile.tdkddoor:blockTdkdDoorStone.name=Anywhere Short Trip Door
+
+tdkddoor.distance=You have traveled %s kilometers!
+tdkddoor.teleporting1=Teleporting somewhere in the world
+tdkddoor.teleporting2=Teleporting to the other door
